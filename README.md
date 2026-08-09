@@ -309,18 +309,6 @@ The following parameters were analyzed:
 
 ## Characterization Results
 
-| Parameter | Pre-Layout | Post-Layout | Change |
-|---|---:|---:|---:|
-| Rise Time | 9.051 ps | 12.21 ps | +3.159 ps |
-| Fall Time | 10.15 ps | 14.62 ps | +4.47 ps |
-| Rise Delay (tpLH) | 9.841 ps | 13.38 ps | +3.539 ps |
-| Fall Delay (tpHL) | 13.66 ps | 18.06 ps | +4.40 ps |
-| Average Propagation Delay | 11.7505 ps | 15.72 ps | +3.9695 ps |
-| Total Average Power | 110.5 nW | 237 nW | +126.5 nW |
-| Static/Leakage Power | 54.621 pW | 54.622 pW | +0.001 pW |
-| Estimated Dynamic Power | 110.445 nW | 236.945 nW | +126.5 nW |
-| Cell Area | 2.088 µm² | 2.088 µm² | No change |
-
 ![INV-X1 Simulation Results](images/15_inv_x1_simulation_results.png)
 
 ### Observation
